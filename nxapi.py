@@ -16,7 +16,7 @@ myheaders = {'content-type': 'application/json'}
 payload = {
     "ins_api": {
         "version": "1.0",
-        "type": "cli_conf",
+        "type": "cli_show",
         "chunk": "0",
         "sid": "sid",
         "input": "show ip interface brief",
